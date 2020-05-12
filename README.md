@@ -17,3 +17,7 @@ npm run start
 ```
 
 Go to `http://localhost:3000`
+
+## oh also
+
+you need the IPFS Companion extension and an IPFS node running locally (e.g. with `ipfs daemon`)
